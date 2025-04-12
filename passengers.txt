@@ -1,0 +1,3 @@
+Alice;Action,Comedy
+Bob;Drama,Horror
+Charlie;Comedy,Adventure
